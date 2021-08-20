@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Scrawnyparadise by Juya
+kernel.string=Pastlives夢の物語 by Juya
 do.devicecheck=1
 do.modules=0
 do.systemless=1
